@@ -1,0 +1,183 @@
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+}
+.perfil-stal {
+     color: black;
+}
+.title:visited {
+    color:  rgba(0, 0, 0, 0.836);
+}
+
+.title:link {
+    color: rgba(0, 0, 0, 0.836);
+}
+.title:hover {
+    color: rgb(3, 1, 1);
+}
+
+h2 {
+    font-size: 17px;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+.sinopsis {
+    font-size: 17px;
+}
+
+.descarga:hover {
+    color: rgba(0, 0, 0, 0.39);
+}
+.post-texto {
+    font-size: 28px;
+    font-family: 'Playfair Display', serif;
+}
+.post-content{
+    line-height: inherit;
+    line-height: 1.4;
+    font-size: 1rem;
+    text-align: justify;
+}
+.post-img {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 30px;
+    margin-top: 100px;
+}
+
+.post-img-2 {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 30px;
+    margin-top: 106px;
+}
+
+.post-title {
+    font-size: 15px;
+}
+.hoverable {
+    transition: 2s;
+}
+
+.post-link:hover {
+    color: rgb(213, 229, 235);
+    transition: 1s;
+}
+.post-link {
+    color: white;
+}
+
+/*sobre mi*/
+
+.sobre-mi {
+    font-family: 'Playfair Display', serif;
+    font-size: 38px;
+}
+.post-p {
+    line-height: inherit;
+    line-height: 1.9;
+    text-align: justify;
+}
+.facebook:link {
+    color: white;
+}
+.facebook:visited {
+    color: white;
+}
+.facebook:hover {
+    color: rgba(245, 245, 245, 0.842);
+}
+
+.twitter:link {
+    color: white;
+}
+.twitter:visited {
+    color: white;
+}
+.twitter:hover {
+    color: rgba(245, 245, 245, 0.842);
+}
+
+.instagram:link {
+    color: white;
+}
+.instagram:visited {
+    color: white;
+}
+.instagram:hover {
+    color: rgba(245, 245, 245, 0.842);
+}
+
+.linkedin:link {
+    color: white;
+}
+.linkedin:visited {
+    color: white;
+}
+.linkedin:hover {
+    color: rgba(245, 245, 245, 0.842);
+}
+
+.vk:link {
+    color: white;
+}
+.vk:visited {
+    color: white;
+}
+.vk:hover {
+    color:#2477F3;
+}
+
+.link-facebook:link {
+    color: black;
+}
+.link-facebook:visited {
+    color: black;
+}
+.link-facebook:hover {
+    color:#2477F3;
+}
+
+.link-twitter:link {
+    color: black;
+}
+.link-twitter:visited {
+    color: black;
+}
+.link-twitter:hover {
+    color: #2EA2F2;
+}
+
+.post-stal {
+    font-size: 18px;
+}
+
+.post-twitter:link {
+    color: black;
+}
+.post-twitter:visited {
+    color: black;
+}
+.post-twitter:hover {
+    color: #2EA2F2;
+}
+
+/*Articulos*/
+/*motivación*/
+.post-motivacion {
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+.post-inspiracion {
+    color: black;
+}
+.post-inspiracion:link {
+    color: black;
+}
+.post-inspiracion:hover {
+    color: gray;
+}
